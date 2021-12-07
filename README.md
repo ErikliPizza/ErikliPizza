@@ -1,3 +1,1 @@
-- 👋 Hi, this is Samet Kaya.
-- 👀 I’m interested in software technologies and all kinds of popular science
-- 📫 How to reach me asamet273446@gmail.com
+
